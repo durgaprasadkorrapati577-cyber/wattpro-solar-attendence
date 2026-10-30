@@ -1,5 +1,5 @@
 import { ArrowUpRight, Check, Sun, Zap } from "lucide-react";
-import Image from "next/image";
+import Image from "@/public/WhatsApp Image 2026-10-18 at 11.37.04 PM.jpeg";
 import { redirect } from "next/navigation";
 import LoginForm from "@/components/login-form";
 import { getCurrentUser } from "@/lib/auth";
