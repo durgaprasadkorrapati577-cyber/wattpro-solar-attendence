@@ -35,7 +35,7 @@ export default async function LoginPage() {
         </section>
         <section className="login-form-side">
           <div className="login-mobile-brand">
-            <Image src="/images/wattpro-logo-blue.png" alt="WattPro Solar Energy Pvt. Ltd." className="login-mobile-logo" width={200} height={66} />
+            <Image src="/WhatsApp Image 2026-10-18 at 11.37.04 PM.jpeg" alt="WattPro Solar Energy Pvt. Ltd." className="login-mobile-logo" width={200} height={66} />
           </div>
           <div className="login-form-wrap">
             <div className="login-icon"><Sun size={23} strokeWidth={2} /></div>
